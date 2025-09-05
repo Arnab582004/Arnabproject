@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Health Monitoring System
 
 This project is a **real-time health monitoring web application** built for hackathons. It combines IoT, Machine Learning, and geolocation services to provide users with a comprehensive health monitoring experience.
@@ -29,3 +30,5 @@ This project is a **real-time health monitoring web application** built for hack
 1. Clone the repository:
 ```bash
 git clone https://github.com/your-username/health-monitoring-system.git
+=======
+
